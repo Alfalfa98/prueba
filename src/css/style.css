@@ -41,6 +41,14 @@
     color: black;
 }
 
+@media only screen and (max-width: 550px){
+    .div-form {
+        top: 5%;
+        left: 25%;
+        width: 50%;
+    }
+}
+
 .header-form {
     width: 100%;
     display: flex;
